@@ -1,0 +1,51 @@
+INFROMASI UMUM
+=================================================================================
+
+NAMA 	 	: Jean Louis Ginting 
+NIM		: 151112505
+Judil Topik	: Aplikasi Mobile Assistant
+Alamat Github	: https://github.com/Jeanlg97/Membuat-Aplikasi-Mobile-Assistant
+Alamat Trello	: https://trello.com/b/w15hvGGJ/membuat-aplikasi-mobile-assistant
+
+SPRINT	
+==================
+Sprint 1-3	:
+9/6 - 13/6
+Scrummaster 	: Jean Louis Ginting
+Nim		: 151112505
+
+Sprint 4 	:
+Progres Harian
+
+Daily Scrum 9/6
+Master		: Jean Louis Ginting (151112505)
+1. Mencari Artikel Sesuai Topik
+2. Kendala Koneksi Internet Lambat
+
+Daily Scrum 10/6
+Master		: Jean Louis Ginting (151112505)
+1. Tidak melakukan apa-apa 
+2. Karena Kendala Koneksi Internet Lambat
+
+Daily Scrum 11/6
+Master		: Jean Louis Ginting (151112505)
+1. Tidak melakukan apa-apa
+2. Karena Kendala Koneksi Internet Lambat
+3. Memikirkan Slide Bespoke yang belum dipahami2. 
+
+Daily Scrum 12/6
+Master		: Jean Louis Ginting (151112505)
+1. Mulai menginstal Bepoke
+2. memulai pembuatan Repository Baru di Github
+3. Kendala sangat sulit untuk dipahami karena Individu
+4. Membuat dan mengupload dokument Word ke Repository
+5. Membuat Log Book
+6. Koneksi yang Lambat
+
+Daily Scrum 13/6
+Master		: Jean Louis Ginting (151112505)
+1. Mengerjakan semuanya mulai dari Trello, Logbook, Github, hingga slide Bespoke
+2. Kendala tetap Koneksi lambat sehingga saya pergi ke Warnet Terdekat dari Rumah
+
+
+		
